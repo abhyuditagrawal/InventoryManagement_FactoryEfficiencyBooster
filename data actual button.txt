@@ -1,0 +1,5 @@
+For Style 12
+The total number of buttons required for all the sizes in one colour are 48.0
+The total number of buttons required for all the sizes in 20 colours are 960.0
+
+

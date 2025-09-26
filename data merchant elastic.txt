@@ -1,0 +1,122 @@
+For Style 211
+The average is 0.689 meters
+The average with 3% wastage is 0.71 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 124.02 meters
+The amount of elastic boxes required for the whole order for one colour is 0.16 meters
+The total amount of elastic required for the whole order in 20 colours is 2480.4 meters
+The amount of elastic boxes required for the whole order in 20 colours is 3.2 meters
+
+
+For Style 58+
+The average is 0.789 meters
+The average with 3% wastage is 0.813 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 472.71 meters
+The amount of elastic boxes required for the whole order for one colour is 0.59 meters
+The total amount of elastic required for the whole order in 20 colours is 9454.2 meters
+The amount of elastic boxes required for the whole order in 20 colours is 11.8 meters
+
+
+For Style 12
+The average is 0.689 meters
+The average with 3% wastage is 0.71 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 33.07 meters
+The amount of elastic boxes required for the whole order for one colour is 0.04 meters
+The total amount of elastic required for the whole order in 20 colours is 661.4 meters
+The amount of elastic boxes required for the whole order in 20 colours is 0.8 meters
+
+
+For Style 1234
+The average is 0.713 meters
+The average with 3% wastage is 0.734 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 11.4 meters
+The amount of elastic boxes required for the whole order for one colour is 0.01 meters
+The total amount of elastic required for the whole order in 20 colours is 228.0 meters
+The amount of elastic boxes required for the whole order in 20 colours is 0.2 meters
+
+
+For Style 123
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 4.0
+The total number of labels required for all the sizes in 20 colours are 80.0
+
+
+For Style 123
+The average is 0.655 meters
+The average with 3% wastage is 0.675 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 24.24 meters
+The amount of elastic boxes required for the whole order for one colour is 0.03 meters
+The total amount of elastic required for the whole order in 20 colours is 484.8 meters
+The amount of elastic boxes required for the whole order in 20 colours is 0.6 meters
+
+
+For Style 12
+The average is 0.658 meters
+The average with 3% wastage is 0.678 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 234.26 meters
+The amount of elastic boxes required for the whole order for one colour is 0.29 meters
+The total amount of elastic required for the whole order in 20 colours is 4685.2 meters
+The amount of elastic boxes required for the whole order in 20 colours is 5.8 meters
+
+
+For Style #1221
+
+The number of pieces in small size is 78.0
+The number of pieces in medium size is 65.0
+The number of pieces in large size is 2332.0
+The number of pieces in extra large size is 4.56456456E8
+
+The average is 0.803 meters
+The average with 3% wastage is 0.827 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 3.665363167E8 meters
+The amount of elastic boxes required for the whole order for one colour is 458170.4 boxes
+The total amount of elastic required for the whole order in 20 colours is 7.330726334E9 meters
+The amount of elastic boxes required for the whole order in 20 colours is 9163408.0 meters
+
+
+For Style 1
+
+The number of pieces in small size is 1.0
+The number of pieces in medium size is 2.0
+The number of pieces in large size is 3.0
+The number of pieces in extra large size is 4.0
+
+The average is 0.727 meters
+The average with 3% wastage is 0.749 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 7.27 meters
+The amount of elastic boxes required for the whole order for one colour is 0.01 boxes
+The total amount of elastic required for the whole order in 20 colours is 145.4 meters
+The amount of elastic boxes required for the whole order in 20 colours is 0.2 meters
+
+

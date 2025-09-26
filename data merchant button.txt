@@ -1,0 +1,4 @@
+The total number of buttons required for all the sizes in one colour are 36.0
+The total number of buttons required for all the sizes in 20 colours are 720.0
+
+

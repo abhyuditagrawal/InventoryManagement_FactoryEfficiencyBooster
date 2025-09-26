@@ -1,0 +1,37 @@
+For Style 123
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 15.0
+The total number of labels required for all the sizes in 20 colours are 300.0
+
+
+For Style 12345
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 76.0
+The total number of labels required for all the sizes in 20 colours are 1520.0
+
+
+For Style 123456
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 55.0
+The total number of labels required for all the sizes in 20 colours are 1100.0
+
+
+For Style 1
+For date Tue Jul 24 05:19:34 IST 2012
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 64.0
+The total number of labels required for all the sizes in 20 colours are 1280.0
+
+
+For Style 1
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 55.0
+The total number of labels required for all the sizes in 20 colours are 1100.0
+
+
+For Style 12
+Per garment 1 label is required
+The total number of labels required for all the sizes in one colour are 55.0
+The total number of labels required for all the sizes in 20 colours are 1100.0
+
+

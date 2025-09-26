@@ -1,0 +1,26 @@
+For Style 4545
+The average is 0.689 meters
+The average with 3% wastage is 0.71 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 124.02 meters
+The amount of elastic boxes required for the whole order for one colour is 0.16 meters
+The total amount of elastic required for the whole order in 20 colours is 2480.4 meters
+The amount of elastic boxes required for the whole order in 20 colours is 3.2 meters
+
+
+For Style 5
+The average is 0.689 meters
+The average with 3% wastage is 0.71 meters
+For small size we can make 1391.3 garments per box of elastic
+For medium size we can make 1228.88 garments per box of elastic
+For large size we can make 1100.41 garments per box of elastic
+For extra large size we can make 996.26 garments per box of elastic
+The total amount of elastic required for the whole order for one colour is 124.02 meters
+The amount of elastic boxes required for the whole order for one colour is 0.16 meters
+The total amount of elastic required for the whole order in 20 colours is 2480.4 meters
+The amount of elastic boxes required for the whole order in 20 colours is 3.2 meters
+
+
